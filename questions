@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": 1,
-      "text": "Which of the following indicates 'Go Straight'?",
+      "text": "Which of the following indicates \"Go Straight\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/e895c0fab4ec.png" },
@@ -51,7 +51,7 @@
     },
     {
       "id": 2,
-      "text": "Which of the following indicates 'Speed Limit is over'?",
+      "text": "Which of the following indicates \"Speed Limit is over\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/099b4c3a370c.png" },
@@ -63,7 +63,7 @@
     },
     {
       "id": 3,
-      "text": "Which of the following indicates 'Level Crossing Without Gate'?",
+      "text": "Which of the following indicates \"Level Crossing Without Gate\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/c5f5cfe6d02f.png" },
@@ -75,7 +75,7 @@
     },
     {
       "id": 4,
-      "text": "Which of the following indicates 'Overtaking is Prohibited'?",
+      "text": "Which of the following indicates \"Overtaking is Prohibited\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/6e900270f0c0.png" },
@@ -87,7 +87,7 @@
     },
     {
       "id": 5,
-      "text": "Which of the following indicates 'No Entry'?",
+      "text": "Which of the following indicates \"No Entry\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/8f6d4ea3ca7a.png" },
@@ -99,7 +99,7 @@
     },
     {
       "id": 6,
-      "text": "Which of the following indicates 'Slippery Road'?",
+      "text": "Which of the following indicates \"Slippery Road\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/8b1bfebde36f.png" },
@@ -111,7 +111,7 @@
     },
     {
       "id": 7,
-      "text": "Which of the following indicates 'Speed Limit 50 KM'?",
+      "text": "Which of the following indicates \"Speed Limit 50 KM\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/51cebb280bb7.png" },
@@ -123,7 +123,7 @@
     },
     {
       "id": 8,
-      "text": "Which of the following indicates 'No Entrance of Any Vehicle'?",
+      "text": "Which of the following indicates \"No Entrance of Any Vehicle\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/e1b1080a93ad.png" },
@@ -135,7 +135,7 @@
     },
     {
       "id": 9,
-      "text": "Which of the following indicates 'Give Way'?",
+      "text": "Which of the following indicates \"Give Way\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/c65f1e429285.png" },
@@ -147,7 +147,7 @@
     },
     {
       "id": 10,
-      "text": "Which of the following indicates that 'The Small Road Crosses the Main Road'?",
+      "text": "Which of the following indicates that \"The Small Road Crosses the Main Road\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/39cb1709e67d.png" },
@@ -183,7 +183,7 @@
     },
     {
       "id": 11,
-      "text": "Which of the following indicates 'Go Straight'?",
+      "text": "Which of the following indicates \"Go Straight\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/e895c0fab4ec.png" },
@@ -195,7 +195,7 @@
     },
     {
       "id": 12,
-      "text": "Which of the following indicates 'Speed Limit is over'?",
+      "text": "Which of the following indicates \"Speed Limit is over\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/099b4c3a370c.png" },
@@ -207,7 +207,7 @@
     },
     {
       "id": 13,
-      "text": "Which of the following indicates 'Level Crossing Without Gate'?",
+      "text": "Which of the following indicates \"Level Crossing Without Gate\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/c5f5cfe6d02f.png" },
@@ -219,7 +219,7 @@
     },
     {
       "id": 14,
-      "text": "Which of the following indicates 'Overtaking is Prohibited'?",
+      "text": "Which of the following indicates \"Overtaking is Prohibited\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/6e900270f0c0.png" },
@@ -231,7 +231,7 @@
     },
     {
       "id": 15,
-      "text": "Which of the following indicates 'No Entry'?",
+      "text": "Which of the following indicates \"No Entry\"?",
       "image": "",
       "choices": [
          { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/8f6d4ea3ca7a.png" },
@@ -243,7 +243,7 @@
     },
     {
       "id": 16,
-      "text": "Which of the following indicates 'Slippery Road'?",
+      "text": "Which of the following indicates \"Slippery Road\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/8b1bfebde36f.png" },
@@ -255,7 +255,7 @@
     },
     {
       "id": 17,
-      "text": "Which of the following indicates 'Speed Limit 50 KM'?",
+      "text": "Which of the following indicates \"Speed Limit 50 KM\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/51cebb280bb7.png" },
@@ -290,7 +290,7 @@
     },
     {
       "id": 18,
-      "text": "Which of the following indicates 'which of the following indicates \"BOX JUNCTION\"?",
+      "text": "Which of the following indicates \"which of the following indicates \"BOX JUNCTION\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/8cb5c8d3ffe6.png" },
@@ -326,7 +326,7 @@
     },
     {
       "id": 18,
-      "text": "Which of the following indicates 'No Entrance of Any Vehicle'?",
+      "text": "Which of the following indicates \"No Entrance of Any Vehicle\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/e1b1080a93ad.png" },
@@ -338,7 +338,7 @@
     },
     {
       "id": 19,
-      "text": "Which of the following indicates 'Give Way'?",
+      "text": "Which of the following indicates \"Give Way\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/c65f1e429285.png" },
@@ -350,7 +350,7 @@
     },
     {
       "id": 20,
-      "text": "Which of the following indicates that 'The Small Road Crosses the Main Road'?",
+      "text": "Which of the following indicates that \"The Small Road Crosses the Main Road\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://example.com/signs/choice1.png" },
@@ -362,7 +362,7 @@
     },
     {
       "id": 21,
-      "text": "Which of the following indicates 'Go Straight'?",
+      "text": "Which of the following indicates \"Go Straight\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/e895c0fab4ec.png" },
@@ -374,7 +374,7 @@
     },
     {
       "id": 22,
-      "text": "Which of the following indicates 'Speed Limit is over'?",
+      "text": "Which of the following indicates \"Speed Limit is over\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/099b4c3a370c.png" },
@@ -386,7 +386,7 @@
     },
     {
       "id": 23,
-      "text": "Which of the following indicates 'Level Crossing Without Gate'?",
+      "text": "Which of the following indicates \"Level Crossing Without Gate\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/c5f5cfe6d02f.png" },
@@ -398,7 +398,7 @@
     },
     {
       "id": 24,
-      "text": "Which of the following indicates 'Overtaking is Prohibited'?",
+      "text": "Which of the following indicates \"Overtaking is Prohibited\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/45c71eed4308.png" },
@@ -422,7 +422,7 @@
     },
     {
       "id": 25,
-      "text": "Which of the following indicates 'No Entry'?",
+      "text": "Which of the following indicates \"No Entry\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/8f6d4ea3ca7a.png" },
@@ -434,7 +434,7 @@
     },
     {
       "id": 26,
-      "text": "Which of the following indicates 'Slippery Road'?",
+      "text": "Which of the following indicates \"Slippery Road\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/8b1bfebde36f.png" },
@@ -446,7 +446,7 @@
     },
     {
       "id": 27,
-      "text": "Which of the following indicates 'Speed Limit 50 KM'?",
+      "text": "Which of the following indicates \"Speed Limit 50 KM\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/51cebb280bb7.png" },
@@ -458,7 +458,7 @@
     },
     {
       "id": 28,
-      "text": "Which of the following indicates 'No Entrance of Any Vehicle'?",
+      "text": "Which of the following indicates \"No Entrance of Any Vehicle\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/e1b1080a93ad.png" },
@@ -470,7 +470,7 @@
     },
     {
       "id": 29,
-      "text": "Which of the following indicates 'Give Way'?",
+      "text": "Which of the following indicates \"Give Way\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://www.trafficsigntest.com.pk/images/Answers/c65f1e429285.png" },
@@ -482,7 +482,7 @@
     },
     {
       "id": 30,
-      "text": "Which of the following indicates that 'The Small Road Crosses the Main Road'?",
+      "text": "Which of the following indicates that \"The Small Road Crosses the Main Road\"?",
       "image": "",
       "choices": [
         { "id": 1, "image": "https://example.com/signs/choice1.png" },
